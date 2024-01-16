@@ -11,7 +11,7 @@ const Navbar = () => {
                     <li><a>FlackCard</a></li>
                     <li><a>Contact</a></li>
                     <li><a>FAQ</a></li>
-                    <button className="btn bg-gradient-to-t from-blue-500 to-blue-600 text-white rounded-2xl px-5">Login</button>
+                    <button className="btn bg-gradient-to-t from-[#164EC0] to-[#06286E] text-white rounded-2xl px-5">Login</button>
                 </ul>
             </div>
         </div>
